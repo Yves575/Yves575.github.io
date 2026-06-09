@@ -6,7 +6,7 @@ subtitle: PhD student at University of Québec in Montréal (UQAM)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic6.png
   image_circular: false # crops the image to make it circular
     # more_info: >
     #   <p>555 your office number</p>
