@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-01-11 09:00:00-0500
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started my PhD at the University of Quebec in Montreal (UQAM).

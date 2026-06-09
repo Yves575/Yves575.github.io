@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-description: Curriculum vitae and Google Scholar profile.
+description:
 ---
 
 You can download my [CV](/assets/pdf/CV_TO-UPDATE.pdf).

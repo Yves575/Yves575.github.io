@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    # more_info: >
+    #   <p>555 your office number</p>
+    #   <p>123 your address street</p>
+    #   <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,22 +22,18 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at the University of Quebec in Montreal (UQAM), working on
-literary machine translation, human evaluation, reader preference, and multilingual
-NLP.
+### about me
+I am continuing my studies at the University of Quebec in Montreal (UQAM), moving from an M.Sc. to a PhD after working on NLP methods for detecting signs of mental health conditions.
 
-My research focuses on how human and machine translations of fiction are read,
-compared, and evaluated. I am especially interested in literary style, author voice,
-cultural texture, paragraph and dialogue structure, and the cues that make a
-translation feel readable, literary, engaging, human, or machine-like.
+I started my PhD with a research exchange at Simon Fraser University (SFU), where I studied linguistics and worked on a project about the evaluation of literary machine translation.
 
-In my current work, I study professional human translation and agentic machine
-translation for fiction across languages including French, Japanese, and Polish. This
-includes building translation and review pipelines, aligning source and translated
-passages, exporting human-evaluation data, and analyzing reader judgments with both
-quantitative and qualitative methods.
+### research interests
+My main research interests are multilingual NLP and machine translation, with a particular focus on how translations are evaluated by readers. I am currently working on literary machine translation, where small choices in wording, style,
+and structure can strongly affect the reading experience.
+
+I am also always willing to explore other domains, in NLP or beyond, and to work on new problems that connect language, data, and human interpretation.
