@@ -1,12 +1,12 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+description: Curriculum vitae and Google Scholar profile.
 ---
+
+You can download my [CV](/assets/pdf/CV_TO-UPDATE.pdf).
+
+You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=ogkB0TQAAAAJ&hl=en).
