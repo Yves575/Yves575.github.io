@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="566" viewBox="0 0 400 566" role="img" aria-labelledby="title desc">
+  <title id="title">Enhancing Explainability in AI publication preview</title>
+  <desc id="desc">A stylized first-page preview for the HAI 2023 publication.</desc>
+  <rect width="400" height="566" rx="10" fill="#f8fafc" />
+  <rect x="24" y="24" width="352" height="518" rx="4" fill="#ffffff" stroke="#d6dde8" />
+  <text x="48" y="70" fill="#243044" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Enhancing Explainability in AI</text>
+  <text x="48" y="96" fill="#243044" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">
+    Food Recommender System Use Case
+  </text>
+  <text x="48" y="128" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="12">
+    Proceedings of the 11th International Conference
+  </text>
+  <text x="48" y="146" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="12">on Human-Agent Interaction, 2023</text>
+  <line x1="48" y1="174" x2="352" y2="174" stroke="#cbd5e1" />
+  <rect x="48" y="210" width="128" height="82" rx="8" fill="#ecfeff" stroke="#67e8f9" />
+  <circle cx="88" cy="251" r="22" fill="#0891b2" />
+  <path d="M118 242h34M118 260h48" stroke="#0891b2" stroke-width="8" stroke-linecap="round" />
+  <rect x="210" y="210" width="118" height="82" rx="8" fill="#f5f3ff" stroke="#c4b5fd" />
+  <path d="M234 272l27-38 24 25 20-33" fill="none" stroke="#6d5bd0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="48" y1="330" x2="352" y2="330" stroke="#e2e8f0" />
+  <line x1="48" y1="358" x2="334" y2="358" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" />
+  <line x1="48" y1="384" x2="352" y2="384" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" />
+  <line x1="48" y1="410" x2="315" y2="410" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" />
+  <line x1="48" y1="436" x2="344" y2="436" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" />
+  <line x1="48" y1="462" x2="286" y2="462" stroke="#cbd5e1" stroke-width="6" stroke-linecap="round" />
+  <rect x="281" y="500" width="71" height="24" rx="4" fill="#6c5ce7" />
+  <text x="316.5" y="517" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">HAI</text>
+</svg>

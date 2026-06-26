@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+
+"MLP-LLM":
+  color: "#3b6ea8"
+
+"TALN":
+  color: "#2f7d62"
+
+"CLEF":
+  color: "#8a5a2b"
+
+"HAI":
+  color: "#6c5ce7"
