@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: "total: 4"
+description: "total: 5"
 nav: true
 nav_order: 2
 _styles: |
@@ -74,6 +74,11 @@ _styles: |
     color: #fff !important;
   }
 
+  .publications ol.bibliography li .abbr abbr.abbr-arxiv {
+    border-color: #8f1515 !important;
+    background: #b31b1b !important;
+  }
+
   .publications ol.bibliography li [id] {
     width: auto;
     max-width: none;
@@ -122,10 +127,16 @@ _styles: |
 </div>
 
 <script>
+  document.querySelectorAll(".publications ol.bibliography li .abbr abbr").forEach((abbr) => {
+    if (abbr.textContent.trim().toLowerCase() === "arxiv") {
+      abbr.classList.add("abbr-arxiv");
+    }
+  });
+
   document.querySelectorAll(".publications .links").forEach((links) => {
     const buttons = Array.from(links.querySelectorAll(".btn"));
-    const paperButton = buttons.find((button) => button.textContent.trim() === "PDF");
-    const doiButton = buttons.find((button) => button.textContent.trim() === "DOI");
+    const paperButton = buttons.find((button) => button.textContent.trim().toLowerCase() === "pdf");
+    const doiButton = buttons.find((button) => button.textContent.trim().toLowerCase() === "doi");
 
     if (paperButton) {
       paperButton.textContent = "PAPER";
@@ -133,5 +144,15 @@ _styles: |
     } else if (doiButton) {
       doiButton.textContent = "PAPER";
     }
+
+    buttons.forEach((button) => {
+      const label = button.textContent.trim().toLowerCase();
+
+      if (label === "code") {
+        button.textContent = "GITHUB";
+      } else if (label === "website") {
+        button.textContent = "WEBSITE";
+      }
+    });
   });
 </script>
