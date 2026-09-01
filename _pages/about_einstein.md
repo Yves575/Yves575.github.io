@@ -13,5 +13,5 @@ includes building translation and review pipelines, aligning source and translat
 passages, exporting human-evaluation data, and analyzing reader judgments with both
 quantitative and qualitative methods.
 
-You can download my [CV](/assets/pdf/CV_TO-UPDATE.pdf) or view my publications on
+You can download my [CV](/assets/pdf/yvesferstler-cv.pdf) or view my publications on
 [Google Scholar](https://scholar.google.com/citations?user=ogkB0TQAAAAJ&hl=en).

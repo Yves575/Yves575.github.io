@@ -1,7 +1,7 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/CV_TO-UPDATE.pdf # path to your CV PDF file
+cv_pdf: /assets/pdf/yvesferstler-cv.pdf # path to your CV PDF file
 email: ferstler.yves@courrier.uqam.ca # your email address
 bluesky_url: https://bsky.app/profile/yvesfrtl.bsky.social # your Bluesky profile URL
 linkedin_username: yves-ferstler-b1a44b255 # your LinkedIn username
